@@ -1,0 +1,82 @@
+strong{
+    color: black;
+}
+
+h1{
+    margin-top: 50px;
+}
+
+.row{
+    text-align: center;
+}
+
+.launch{
+    color: rgb(182, 181, 181);
+    margin-top: 20px;
+}
+
+#input-field{
+    margin: 50px auto;
+    padding-left: 150px;
+    padding-right: 100px;
+    /* margin-left: 150px;
+    margin-right: 100px; */
+}
+
+.form-control{
+    /* width: 135%; */
+    width: 135%;
+    height: 50px;
+    border-radius: 25px;
+    padding-left: 20px;
+}
+
+button{
+    height: 50px;
+    width: 100%;
+}
+
+#btn-btn{
+    border-radius: 23px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.btn{
+    margin-top: -5px;
+}
+
+img{
+    width: 80%;
+    /* border: 1px solid black; */
+}
+
+#icons img{
+    width: 10%;
+    border: 1px solid blue;
+    padding: 5px;
+    border-radius: 30px;
+    margin-right: 10px;
+}
+
+#icons{
+    margin: 100px auto;
+}
+
+.challenge-div p{
+    color: rgb(182, 181, 181) ;
+    margin-bottom: 100px;
+}
+
+#link-paragraph span{
+    color: blue;
+    text-decoration: underline;
+}
+
+#link-paragraph{
+    margin-bottom: 100px;
+}
+
+.mb-3{
+    width: 100%;
+}
